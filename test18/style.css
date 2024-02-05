@@ -1,0 +1,19 @@
+.rv{
+    text-decoration: none; color: #000000;
+}
+
+.rv:hover{
+    color: blue;
+}
+
+.ssm2{
+    text-decoration: none; color: #dc3545;
+    border: 1px solid #dc3545;
+    padding: 08px;
+    margin-left: 10px;
+}
+
+.ssm2:hover{
+    background-color: #dc3545;
+    color: #fff;
+}
