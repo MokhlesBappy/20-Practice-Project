@@ -1,0 +1,121 @@
+.body{
+    width: 90%;
+    margin: 0% 0% 5% 5%;
+}
+
+.maindiv{
+    display: flex;
+    width: 100%;
+    background-color: blue;
+    border-radius: 10px;
+}
+
+
+.maindiv div {
+    padding: 12px;
+}
+
+.part1{
+    display: flex;
+    flex: 15%;
+    font-size: xx-large;
+}
+
+.part2{
+    display: flex;
+    flex: 40%;
+    justify-content: space-between;
+}
+
+.part3{
+    flex: 19%;
+    display: flex;
+    justify-content: center;
+}
+
+.maindiv2{
+    display: flex;
+    margin-top: 30px;
+    margin-right: 25px;
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: center;
+    /* margin: 0 25px; */
+}
+
+.maindiv2 .ddd{
+    flex: 20%;
+    height: 250px;
+    border: 1px solid rgb(125, 212, 212);
+    text-align: left;
+}
+
+.maindiv3{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 50%;
+    /* margin: 0 25px; */
+    
+}
+
+
+.ddd2{
+    flex: 20%;
+    height: 250px;
+    border: 1px solid rgb(125, 212, 212);
+    text-align: center;
+}
+
+.maindiv div a{
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pp7{padding: 10px 50px;
+    background-color: orangered;
+    border-radius: 10px;
+
+}
+
+.image{
+    width: 70px;
+    border-radius: 50px;
+    float: left;
+    margin-top: 10px;
+}
+
+
+.ddd, .ddd2{
+    display: grid;
+}
+
+.ddd div{
+    margin-left: 10px;
+}
+
+.www{
+    margin-top: -45px;
+    font-size: x-large;
+}
+
+.weith{
+    font-size: x-large;
+    margin-top: -15px;
+}
+
+.ppp{
+    margin-top: -30px;
+    float: left;
+}
+
+.ddd2 div{
+    margin-left: 10px;
+    float: left;
+    text-align: left;
+}
+
+.vvv{
+    margin-top: -78px;
+}
+

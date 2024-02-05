@@ -1,0 +1,58 @@
+.body{
+    width: 65vw;
+    margin: 0 auto;
+    border: 1px solid red;
+}
+
+.part1{
+    grid-area: left;
+    border: 1px solid rgb(70, 43, 224);
+    width: 35vw;
+}
+
+
+.part2{
+grid-area: right;
+border: 1px solid rgb(224, 194, 24);
+width: 28vw;
+margin-left: 2vw;
+text-align: center;
+}
+
+.main{
+display: grid;
+grid-template-areas:
+ 'left right';
+}
+ .email{
+    padding: 4px;
+    width: 25vw;
+    height: 2vw;
+    margin-top: 20px;
+ }
+
+.password{
+    padding: 4px;
+    width: 25vw;
+    height: 2vw;
+    margin-top: 15px;
+
+ }
+
+.gallery{
+    text-decoration: none;
+    background-color: blue;
+    padding: 15px 130px;
+    margin: 5px;
+    border-radius: 5px;
+    
+    
+ }
+.image{
+    margin-top: 35px;
+
+}
+
+.line{
+    margin-top: 30px;
+}

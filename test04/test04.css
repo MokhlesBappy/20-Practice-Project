@@ -1,0 +1,108 @@
+body{
+    background-color: rgb(213, 181, 235);
+}
+#header1{
+    width: 250px;
+    height: 35px;
+    background-color: rgb(137, 19, 167);
+    display: flex;
+    justify-content: start;
+    column-gap: 10px;
+    margin: auto;
+    padding: 7px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+#header2{
+    width: 250px;
+    height: 35px;
+    background-color: rgb(137, 19, 167);
+    display: flex;
+    justify-content: end;
+    column-gap: 10px;
+    margin: auto;
+    padding: 7px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+#header3{
+    width: 250px;
+    height: 35px;
+    background-color: rgb(137, 19, 167);
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    margin: auto;
+    padding: 7px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+#header4{
+    width: 250px;
+    height: 35px;
+    background-color: rgb(137, 19, 167);
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+    margin: auto;
+    padding: 7px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+#header5{
+    width: 250px;
+    height: 35px;
+    background-color: rgb(137, 19, 167);
+    display: flex;
+    justify-content: space-around;
+    column-gap: 10px;
+    margin: auto;
+    padding: 7px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+#header6{
+    width: 250px;
+    height: 35px;
+    background-color: rgb(137, 19, 167);
+    display: flex;
+    justify-content: space-evenly;
+    column-gap: 5px;
+    margin: auto;
+    padding: 7px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+#image-box1{
+    width: 50px;
+    height: 35px;
+    background-color: rgb(255, 167, 5);
+    border-radius: 6px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+h1{
+    margin-left: 500px;
+}
+.text{
+ margin-left: 550px; 
+}
+#image-box2{
+    width: 35px;
+    height: 35px;
+    background-color: rgb(255, 167, 5);
+    border-radius: 6px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+#image-box3{
+    width: 65px;
+    height: 35px;
+    background-color: rgb(255, 167, 5);
+    border-radius: 6px;
+    box-shadow: 1px 1px 1px 1px black;
+}

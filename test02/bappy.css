@@ -1,0 +1,37 @@
+body{background-color: white;}
+.img_deg
+{
+  float: left;
+  width: 2%;
+}
+.img_key
+{
+  float: left;
+  width: 2%;
+  margin-top: 5px;
+}
+.position_le{position: absolute; width: 90%;}
+.hjhj{margin-top: 0px;}
+h5{margin-top: 80px; margin-left: 100px;}
+h4{margin-bottom: 02px; margin-left: 25px;}
+.Submit{padding-left: 70px; padding-right: 70px; margin-left: 30px; padding-top: 10px; padding-bottom: 10px; background-color: goldenrod;}
+h3{margin-top: 50px; margin-left: 50px;}
+.img_fb
+{
+  float: left;
+  width: 4%;
+}
+.img_Tw
+{
+  float: left;
+  width: 3%;
+}
+.img_google
+{
+  float: left;
+  width: 4%;
+}
+.singup{margin-top: 110px;}
+.ddd{margin-top: 10px; margin-left: 70px;}
+.llll{margin-left: 30px;}
+h1{margin-left: 70px;}
